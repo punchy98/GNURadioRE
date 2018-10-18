@@ -1,2 +1,2 @@
 # RFreversing
-A compilation of grc files used to reverse RF devices
+A compilation of files used to reverse RF devices
